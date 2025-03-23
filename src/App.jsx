@@ -1,10 +1,10 @@
 import s from "./App.module.css";
-import { Profile } from "./component/Profile/Profile";
+import { Profile } from "./components/Profile/Profile";
 import userData from "./assets/userData.json";
 import friends from "./assets/friends.json"
-import FriendList from "./component/FriendList/FriendList";
+import FriendList from "./components/FriendList/FriendList";
 import transactions from "./assets/transactions.json"
-import TransactionHistory from "./component/TransactionHistory/TransactionHistory";
+import TransactionHistory from "./components/TransactionHistory/TransactionHistory";
 
 const App = () => {
   return (
