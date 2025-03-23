@@ -1,0 +1,19 @@
+
+.box {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.status {
+    font-size: 1rem;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}

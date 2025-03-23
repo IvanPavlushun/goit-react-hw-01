@@ -1,7 +1,8 @@
 import React from "react";
 import s from "./FriendList.module.css";
 import clsx from "clsx";
-import FriendListItem from "./FriendListItem";
+import FriendListItem from "../FriendListItem/FriendListItem";
+
 
 export const FriendList = ({ friends }) => {
   return (
